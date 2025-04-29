@@ -25,9 +25,9 @@ I am from Sunderland. I attended Southmoor Sixthform where I passed with A D-in 
 
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: [Sales report](https://app.powerbi.com/groups/me/reports/968caaf6-be3e-4d84-9470-0713555c2d08/4a1174f39d0ab2660f5d?experience=power-bi)
+  - **Description**:Tasked to make an informative sales report dashboard using multiple visualisations I made with some sales data I was given.
+  - **Technologies Used**: .
 
 ### Tableau
 - **Project Name**: [Project Title](link-to-project)
