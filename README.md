@@ -73,15 +73,3 @@ I am from Sunderland. I attended Southmoor Sixthform where I passed with A D-in 
 
 <p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>Laims' GithHub</b>
-
-<a href="https://github.com/Liam-C-B"><img src="[https://github-readme-stats.vercel.app/api](https://github.com/Liam-C-B/Liam_B/edit/main/README.md)?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Liam-C-B's GitHub stats" /></a>
-
-<a href="https://github.com/Liam-C-B/Liam_B"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Liam-C-B&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Liam-C-B/Liam_B" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=**Liam-C-B**&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
-
-<a href="https://github.com/Liam-C-B/Liam_B"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Liam-C-B&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
