@@ -59,7 +59,7 @@ I am from Sunderland. I attended Southmoor Sixthform where I passed with A D-in 
 
 
 * 🌍  I'm based in Sunderland
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at [liambyrne080203@gmail.com](mailto:liambyrne080203@gmail.com)
 * 🧠  I'm learning Excel, Tableau, Python, MySql, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Retail Stockmanagement, Business analytics
 
