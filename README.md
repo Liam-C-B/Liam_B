@@ -27,12 +27,12 @@ I am from Sunderland. I attended Southmoor Sixthform where I passed with A D-in 
 ### PowerBI
 - **Project Name**: [Sales report](https://app.powerbi.com/groups/me/reports/968caaf6-be3e-4d84-9470-0713555c2d08/4a1174f39d0ab2660f5d?experience=power-bi)
   - **Description**:Tasked to make an informative sales report dashboard using multiple visualisations I made with some sales data I was given.
-  - **Technologies Used**: .
+  - **Technologies Used**: Used Adventure Works Data to create A sales Report by using the visualisation tools under the Visualisation pane, I then Dragged the data tables from the Data pane into the different axis under the Visualisation pane until I found something that looked nice and easy to read, And then I added them to one dashboard so the consumer would have multi graphs to look at and digest.
 
 ### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: [UK Industry change](https://public.tableau.com/app/profile/liam.byrne8762/viz/UK_Industry_Change/Dashboard1)
+  - **Description**: The Project shows the change within each industry operating in the uk using a Heat map and a bar chart.
+  - **Technologies Used**: Used the EMSI_Jobchange_UK Excel Data source and imported it into tableau. I made a calculated feild to get the sum of change using data from 2011 and 2014 and added the feild to columns with industry in rows to make bar chart. For the heatmap I used Longitude and Latitude in Rows and Columns with Sum and city in the marks, I then added the bar chart and heatmap visualisations together in a dashboard to create a report.
 
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
